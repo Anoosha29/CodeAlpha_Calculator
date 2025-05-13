@@ -44,7 +44,7 @@ CodeAlpha_Calculator/
 
 ## 🙋‍♀️ Made With Love by  
 **Anosha**  
-[🌐 GitHub](https://github.com/Anoosha29) | [📱 LinkedIn](https://linkedin.com/in/anoosha29)
+[🌐 GitHub](https://github.com/Anoosha29) | [📱 LinkedIn](https://www.linkedin.com/in/anosha-web-expert/)
 
 ---
 
